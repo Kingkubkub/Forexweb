@@ -215,7 +215,7 @@ function Menubarindex() {
                                 marginLeft: "10px",
                                 fontWeight: "bolder"
                             }}
-                        >สมัครสมาชิก</Button>
+                        >Signup</Button>
                         <Button variant="contained" onClick={handleClickOpen}
                             style={{
                                 backgroundColor: "#db2531",
@@ -224,7 +224,7 @@ function Menubarindex() {
                                 marginRight:"-25px",
                                 fontWeight: "bolder",
                             }}>
-                            ลงชื่อเข้าใช้</Button>
+                            Signin</Button>
                     </Toolbar>
                 </Container>
             </Box>

@@ -64,7 +64,7 @@ function Index() {
             </Container>
 
 
-            <div style={{ backgroundColor: "#f8f7f6", padding: "50px" }}>
+            <div style={{ backgroundColor: "#f8f7f6", padding: "2.3%" }}>
 
                 <Container>
                     <Grid container spacing={4}>
@@ -105,8 +105,8 @@ function Index() {
                     <h3>เกี่ยวกับเราทั้งหมด</h3>
                     <p>เว็บไซต์ GreenGraph เป็นเว็บไซต์ที่จะคอยให้บริการต่างๆเช่นข้อมูลหุ้นข้อมูลForexและระบบต่างๆที่พัฒนาให้ผู้ใช้ได้ลองเล่นและจะเป็นตัวช่วยให้คุณสร้างกำไรให้มากขึ้น
                         ซึ่งเว็บไซต์นี้เป็นหนึ่งในโปรเจคที่กำลังพัฒนาดังนั้งบางระบบอาจยังใช้งงานไม่ได้</p>
-                    <Grid container>
-                        <Grid item xs={12} xs={6}>
+                    <Grid container className="AB2">
+                        <Grid item xs={12} lg={6}>
                             <h2 className="AB">WELLCOME TO WEBSITE <br /> GET STARTED</h2>
                             <Button variant="outlined"
                                 style={{
@@ -116,7 +116,7 @@ function Index() {
                                     marginLeft: "10px",
                                     fontWeight: "bolder"
                                 }}
-                            >สมัครสมาชิก</Button>
+                            >Signup</Button>
                             <Button variant="contained"
                                 style={{
                                     backgroundColor: "#db2531",
@@ -124,10 +124,10 @@ function Index() {
                                     marginLeft: "10px",
                                     fontWeight: "bolder"
                                 }}>
-                                ลงชื่อเข้าใช้</Button>
+                                Signin</Button>
 
                         </Grid>
-                        <Grid item xs={12} xs={6}>
+                        <Grid item xs={12} lg={6}>
                             <img src={M1} className="mid" />
                         </Grid>
                     </Grid>

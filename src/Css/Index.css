@@ -91,7 +91,10 @@
 
     .AB{
         font-size:200%;
-        margin-top:0px ;
+        margin-top:30px ;
+        text-align: center;
+    }
+    .AB2{
         text-align: center;
     }
   }
