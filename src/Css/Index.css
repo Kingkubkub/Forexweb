@@ -74,6 +74,10 @@
     font-weight: bolder;
 }
 
+.title4{
+    padding: 2.3%;
+}
+
 
 @media only screen and (max-width: 600px) {
     .texttitle {
@@ -96,6 +100,11 @@
     }
     .AB2{
         text-align: center;
+    }
+
+    .title4{
+        padding-top: 40px;
+        padding-bottom: 40px;
     }
   }
 
