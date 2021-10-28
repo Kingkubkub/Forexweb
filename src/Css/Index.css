@@ -65,6 +65,36 @@
 
     font-family: 'Roboto', sans-serif;
 }
+.gg{
+
+    border: 1px solid #db2531;
+    padding: 10px 32px;
+    color: #db2531;
+    margin-left: 10px;
+    font-weight: bolder;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .texttitle {
+      font-size: 110%;
+      text-align: center;
+    }
+
+    .logo{
+        width: 120px;
+    }
+    .gg{
+        padding: 0px;
+        background-color: antiquewhite;
+    }
+
+    .AB{
+        font-size:200%;
+        margin-top:0px ;
+        text-align: center;
+    }
+  }
 
 
 

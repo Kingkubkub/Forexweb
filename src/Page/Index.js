@@ -40,22 +40,22 @@ function Index() {
                 <Typography variant="h5">ทำให้การเทรดเป็นเรื่องง่าย ไม่ซับซ้อน <br /> พร้อมระบบที่ช่วยให้ผู้เล่นเข้าถึงการเทรดได้ง่ายขึ้น</Typography>
                 <div style={{ height: 60 }} />
                 <Grid container spacing={2}>
-                    <Grid item xs={3}>
+                    <Grid item xs={6} lg={3}>
                         <VerifiedUserIcon style={{ fontSize: "2.5em" }} className="icon" />
                         <p className="texts1">เทรดด้วยความปลอดภัย</p>
                         <p className="texts2">เทรดด้วยความปลอดภัยมีระบบต่างๆที่ทำให้คุณมั่นใจในการเทรดกับเรา</p>
                     </Grid>
-                    <Grid item xs={3}>
+                    <Grid item xs={6} lg={3}>
                         <EqualizerIcon style={{ fontSize: "2.5em" }} className="icon" />
                         <p className="texts1">ระบบผู้ช่วยเล่นหรือAI</p>
                         <p className="texts2">มีระบบAIหรือBotที่ช่วยให้คุณเทรดและสร้างกำไรได้มากขึ้น</p>
                     </Grid>
-                    <Grid item xs={3}>
+                    <Grid item xs={6} lg={3}>
                         <AirplayIcon style={{ fontSize: "2.5em" }} className="icon" />
                         <p className="texts1">บริการข้อมูลหุ้น</p>
                         <p className="texts2">บริการข้อมูลหุ้นแบบเบร็จเสร็จที่จะช่วยให้คุณตัดสินใจในการซื้อขายได้ดี</p>
                     </Grid>
-                    <Grid item xs={3}>
+                    <Grid item xs={6} lg={3}>
                         <CloudIcon style={{ fontSize: "2.5em" }} className="icon" />
                         <p className="texts1">การบริการ</p>
                         <p className="texts2">บริการการติดต่อสื่อสารทุกๆ 24 ชั่วโมง ไม่มีวันหยุดราชการ</p>
@@ -68,7 +68,7 @@ function Index() {
 
                 <Container>
                     <Grid container spacing={4}>
-                        <Grid item xs={4} className="x1">
+                        <Grid item xs={12} lg={4} className="x1">
                             <Paper elevation={5}>
                                 <img src={computer} className="img1" />
                                 <h3 >ONE STOCK DATA - SERVICE WEB </h3>
@@ -76,7 +76,7 @@ function Index() {
                                 <div style={{ height: 40 }} />
                             </Paper>
                         </Grid>
-                        <Grid item xs={4} className="x1">
+                        <Grid item xs={12}  lg={4}  className="x1">
                             <Paper elevation={5} >
                                 <img src={tradsmaet} className="img1" />
                                 <h3>FOREX ที่หน้าสนใจ</h3>
@@ -86,7 +86,7 @@ function Index() {
 
                             </Paper>
                         </Grid>
-                        <Grid item xs={4} className="x1">
+                        <Grid item xs={12}  lg={4} className="x1">
                             <Paper elevation={5} >
                                 <img src={M15} className="img1" />
                                 <h3>ระบบสนับสนุนสำหรับผู้เล่นใหม่</h3>
@@ -106,7 +106,7 @@ function Index() {
                     <p>เว็บไซต์ GreenGraph เป็นเว็บไซต์ที่จะคอยให้บริการต่างๆเช่นข้อมูลหุ้นข้อมูลForexและระบบต่างๆที่พัฒนาให้ผู้ใช้ได้ลองเล่นและจะเป็นตัวช่วยให้คุณสร้างกำไรให้มากขึ้น
                         ซึ่งเว็บไซต์นี้เป็นหนึ่งในโปรเจคที่กำลังพัฒนาดังนั้งบางระบบอาจยังใช้งงานไม่ได้</p>
                     <Grid container>
-                        <Grid item xs={6}>
+                        <Grid item xs={12} xs={6}>
                             <h2 className="AB">WELLCOME TO WEBSITE <br /> GET STARTED</h2>
                             <Button variant="outlined"
                                 style={{
@@ -127,7 +127,7 @@ function Index() {
                                 ลงชื่อเข้าใช้</Button>
 
                         </Grid>
-                        <Grid item xs={6}>
+                        <Grid item xs={12} xs={6}>
                             <img src={M1} className="mid" />
                         </Grid>
                     </Grid>

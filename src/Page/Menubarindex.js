@@ -207,7 +207,7 @@ function Menubarindex() {
                         <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
                             <img src={logo} className="logo" />
                         </Typography>
-                        <Button variant="outlined"  onClick={handleClickOpen1}
+                        <Button variant="outlined"  onClick={handleClickOpen1} className="gg"
                             style={{
                                 border: "1px solid #db2531",
                                 padding: "10px 32px",
