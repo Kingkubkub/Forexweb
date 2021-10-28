@@ -68,7 +68,7 @@ function Forgotpssword() {
 
                             <Grid container>
                                 <Grid item xs={12} style={{ textAlign: "center" }}>
-                                    <Button href="/"><Typography variant="h7" style={{ fontSize: "120%" }}>กลับไปหน้าหลัก</Typography></Button>
+                                    <Button href="/Forexweb"><Typography variant="h7" style={{ fontSize: "120%" }}>กลับไปหน้าหลัก</Typography></Button>
                                 </Grid>
 
                             </Grid>
@@ -185,7 +185,7 @@ function Forgotpssword() {
 
                             <div style={{ height: 20 }} />
 
-                            <Button href="/" style={{ fontSize: "105%", backgroundColor: "#333333" }} variant="contained">
+                            <Button href="/Forexweb" style={{ fontSize: "105%", backgroundColor: "#333333" }} variant="contained">
                                 ตกลง
                             </Button>
 

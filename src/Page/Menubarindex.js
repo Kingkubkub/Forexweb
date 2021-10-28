@@ -75,7 +75,7 @@ function Menubarindex() {
                             <TextField type="password" label="Password" margin="normal" />
                             <div style={{ height: 20 }} />
 
-                            <Button variant="contained" href="/home" style={{ 
+                            <Button variant="contained" href="/Forexweb/home" style={{ 
                                 fontSize: "105%",
                                 backgroundColor:"#333333",
                                
@@ -105,7 +105,7 @@ function Menubarindex() {
                       
 
                                 <Grid item xs={12} style={{ textAlign: "center" }}>
-                                    <Button href="/Forgotpssword"><p className="Boutton1">คุณลืมรหัสใช่ไหม?</p></Button>
+                                    <Button href="/Forexweb/Forgotpssword"><p className="Boutton1">คุณลืมรหัสใช่ไหม?</p></Button>
                                 </Grid>
 
                             </Grid>
@@ -183,7 +183,7 @@ function Menubarindex() {
                         }}>
 
 
-                            <Button variant="contained" href="/" style={{ 
+                            <Button variant="contained" href="/Forexweb" style={{ 
                                 fontSize: "105%",
                                 backgroundColor:"#333333"
                                 }}>

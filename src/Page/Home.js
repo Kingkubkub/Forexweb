@@ -61,7 +61,7 @@ function Home() {
                         
 
                         <Grid item xs={6} md={4} lg={4} style={{ marginTop: "1%" }}>
-                            <a href="/forex">
+                            <a href="/Forexweb/forex">
                             <div className="eliment">
                                 <div style={{ textAlign: "center" }}>
                                     <EqualizerIcon style={{ fontSize: "50px" }} className="TimelineIcon1" />

@@ -142,7 +142,7 @@ function Menubarindex() {
                                     </MenuItem>
                                     <Divider />
                                     
-                                    <a href="/setting" style={{textDecoration:"none",color:"#000000DE"}}>
+                                    <a href="/Forexweb/setting" style={{textDecoration:"none",color:"#000000DE"}}>
                                     <MenuItem >
                                     
                                         <ListItemIcon>
@@ -151,8 +151,8 @@ function Menubarindex() {
                                         ตั้งค่าระบบ
                                     </MenuItem>
                                     </a>
-                                    <a href="/" style={{textDecoration:"none",color:"#000000DE"}}>
-                                    <MenuItem href="/">
+                                    <a href="/Forexweb" style={{textDecoration:"none",color:"#000000DE"}}>
+                                    <MenuItem href="/Forexweb">
                                         <ListItemIcon>
                                             <Logout fontSize="small" />
                                         </ListItemIcon>
