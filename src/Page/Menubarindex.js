@@ -62,12 +62,12 @@ function Menubarindex() {
                         <h3 variant="h5" >ลงชื่อเข้าใช้</h3>
                     </DialogTitle>
                     <DialogContent>
-                        <DialogContentText id="alert-dialog-description" style={{
+                        <DialogContentText id="alert-dialog-description" className="signin" style={{
 
                             display: "flex",
                             flexDirection: "column",
                             maxWidth: 400,
-                            minWidth: 350
+                            
 
                         }}>
 
@@ -129,12 +129,12 @@ function Menubarindex() {
                         <h3 variant="h5" >สร้างบัญชี</h3>
                     </DialogTitle>
                     <DialogContent>
-                        <DialogContentText id="alert-dialog-description" style={{
+                        <DialogContentText id="alert-dialog-description"  className="signin" style={{
 
                             display: "flex",
                             flexDirection: "column",
                             maxWidth: 400,
-                            minWidth: 350
+                          
 
                         }}>
 
@@ -173,12 +173,12 @@ function Menubarindex() {
                         <h3 variant="h5" >สำเร็จแล้ว</h3>
                     </DialogTitle>
                     <DialogContent>
-                        <DialogContentText id="alert-dialog-description" style={{
+                        <DialogContentText id="alert-dialog-description"  className="signin" style={{
 
                             display: "flex",
                             flexDirection: "column",
                             maxWidth: 400,
-                            minWidth: 350
+                       
 
                         }}>
 
