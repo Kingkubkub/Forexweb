@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Kingkubkub/Forexweb/static/css/main.29a98646.chunk.css",
+    "main.js": "/Kingkubkub/Forexweb/static/js/main.48888a14.chunk.js",
+    "main.js.map": "/Kingkubkub/Forexweb/static/js/main.48888a14.chunk.js.map",
+    "runtime-main.js": "/Kingkubkub/Forexweb/static/js/runtime-main.1c585e96.js",
+    "runtime-main.js.map": "/Kingkubkub/Forexweb/static/js/runtime-main.1c585e96.js.map",
+    "static/js/2.e2777753.chunk.js": "/Kingkubkub/Forexweb/static/js/2.e2777753.chunk.js",
+    "static/js/2.e2777753.chunk.js.map": "/Kingkubkub/Forexweb/static/js/2.e2777753.chunk.js.map",
+    "static/js/3.69726fca.chunk.js": "/Kingkubkub/Forexweb/static/js/3.69726fca.chunk.js",
+    "static/js/3.69726fca.chunk.js.map": "/Kingkubkub/Forexweb/static/js/3.69726fca.chunk.js.map",
+    "index.html": "/Kingkubkub/Forexweb/index.html",
+    "static/css/main.29a98646.chunk.css.map": "/Kingkubkub/Forexweb/static/css/main.29a98646.chunk.css.map",
+    "static/js/2.e2777753.chunk.js.LICENSE.txt": "/Kingkubkub/Forexweb/static/js/2.e2777753.chunk.js.LICENSE.txt",
+    "static/media/G.eaea2af6.png": "/Kingkubkub/Forexweb/static/media/G.eaea2af6.png",
+    "static/media/M1.a578b511.png": "/Kingkubkub/Forexweb/static/media/M1.a578b511.png",
+    "static/media/M15.0a8d0c7d.jpg": "/Kingkubkub/Forexweb/static/media/M15.0a8d0c7d.jpg",
+    "static/media/bgindex.15a238c1.jpg": "/Kingkubkub/Forexweb/static/media/bgindex.15a238c1.jpg",
+    "static/media/bowser.f32925db.png": "/Kingkubkub/Forexweb/static/media/bowser.f32925db.png",
+    "static/media/computer.c253915d.jpg": "/Kingkubkub/Forexweb/static/media/computer.c253915d.jpg",
+    "static/media/f1.3e482590.png": "/Kingkubkub/Forexweb/static/media/f1.3e482590.png",
+    "static/media/logo.6daef360.png": "/Kingkubkub/Forexweb/static/media/logo.6daef360.png",
+    "static/media/tradsmaet.7e848303.jpg": "/Kingkubkub/Forexweb/static/media/tradsmaet.7e848303.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c585e96.js",
+    "static/js/2.e2777753.chunk.js",
+    "static/css/main.29a98646.chunk.css",
+    "static/js/main.48888a14.chunk.js"
+  ]
+}
