@@ -14,15 +14,17 @@ function App() {
 
 
   return (
-   
-      <div>
+
+
+    <div>
+      <BrowserRouter>
         <Route exact path="/" component={Index} />
         <Route path="/home" component={Home} />
         <Route path="/setting" component={Setting} />
         <Route path="/forex" component={Forex} />
         <Route path="/Forgotpssword" component={Forgotpssword} />
-
-      </div>
+      </BrowserRouter>
+    </div>
 
   );
 }
