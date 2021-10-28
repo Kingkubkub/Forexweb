@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Forexweb/static/css/main.29a98646.chunk.css",
-    "main.js": "/Forexweb/static/js/main.7dc2845e.chunk.js",
-    "main.js.map": "/Forexweb/static/js/main.7dc2845e.chunk.js.map",
+    "main.js": "/Forexweb/static/js/main.5a790910.chunk.js",
+    "main.js.map": "/Forexweb/static/js/main.5a790910.chunk.js.map",
     "runtime-main.js": "/Forexweb/static/js/runtime-main.4be1df0d.js",
     "runtime-main.js.map": "/Forexweb/static/js/runtime-main.4be1df0d.js.map",
-    "static/js/2.91b4a2d9.chunk.js": "/Forexweb/static/js/2.91b4a2d9.chunk.js",
-    "static/js/2.91b4a2d9.chunk.js.map": "/Forexweb/static/js/2.91b4a2d9.chunk.js.map",
+    "static/js/2.eaae2e68.chunk.js": "/Forexweb/static/js/2.eaae2e68.chunk.js",
+    "static/js/2.eaae2e68.chunk.js.map": "/Forexweb/static/js/2.eaae2e68.chunk.js.map",
     "static/js/3.69726fca.chunk.js": "/Forexweb/static/js/3.69726fca.chunk.js",
     "static/js/3.69726fca.chunk.js.map": "/Forexweb/static/js/3.69726fca.chunk.js.map",
     "index.html": "/Forexweb/index.html",
     "static/css/main.29a98646.chunk.css.map": "/Forexweb/static/css/main.29a98646.chunk.css.map",
-    "static/js/2.91b4a2d9.chunk.js.LICENSE.txt": "/Forexweb/static/js/2.91b4a2d9.chunk.js.LICENSE.txt",
+    "static/js/2.eaae2e68.chunk.js.LICENSE.txt": "/Forexweb/static/js/2.eaae2e68.chunk.js.LICENSE.txt",
     "static/media/G.eaea2af6.png": "/Forexweb/static/media/G.eaea2af6.png",
     "static/media/M1.a578b511.png": "/Forexweb/static/media/M1.a578b511.png",
     "static/media/M15.0a8d0c7d.jpg": "/Forexweb/static/media/M15.0a8d0c7d.jpg",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4be1df0d.js",
-    "static/js/2.91b4a2d9.chunk.js",
+    "static/js/2.eaae2e68.chunk.js",
     "static/css/main.29a98646.chunk.css",
-    "static/js/main.7dc2845e.chunk.js"
+    "static/js/main.5a790910.chunk.js"
   ]
 }
