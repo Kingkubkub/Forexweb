@@ -22,7 +22,7 @@ function Index() {
 
         <div className="font1">
 
-            <Menubarindex/>
+            <Menubarindex />
 
             <div>
                 <img src={bgindex} className="bgindex" />
@@ -30,7 +30,7 @@ function Index() {
 
             <div className="texttitle">
                 <Container>
-                    <h1>MAKE PROFIT EVEVRY DAY<br/>
+                    <h1>MAKE PROFIT EVEVRY DAY<br />
                         WITH GREENGRAPH</h1>
                     <img src={bowser} style={{ width: "150px" }} />
                 </Container>
@@ -72,25 +72,33 @@ function Index() {
                             <Paper elevation={5}>
                                 <img src={computer} className="img1" />
                                 <h3 >ONE STOCK DATA - SERVICE WEB </h3>
-                                <p className="texts2">เว็บบริการข้อมูลหุ้นที่ช่วยให้คุณตัดสินใจในการซื้อขายได้ดีมากยิ่งขึ้น</p>
+                                <div style={{ paddingLeft: "6%", paddingRight: "6%" }}>
+
+                                    <p className="texts2">เว็บบริการข้อมูลหุ้นที่ช่วยให้คุณตัดสินใจในการซื้อขายได้ดีมากยิ่งขึ้น</p>
+
+                                </div>
                                 <div style={{ height: 40 }} />
                             </Paper>
                         </Grid>
-                        <Grid item xs={12}  lg={4}  className="x1">
+                        <Grid item xs={12} lg={4} className="x1">
                             <Paper elevation={5} >
                                 <img src={tradsmaet} className="img1" />
                                 <h3>FOREX ที่หน้าสนใจ</h3>
-                                <p className="texts2">แสดงอันดับของ Forex ที่น่าสนใจและการแนะนำเพื่อช่วยให้คุณตัดสินใจได้ดีขึ้น</p>
+                                <div style={{ paddingLeft: "6%", paddingRight: "6%" }}>
+                                    <p className="texts2">แสดงอันดับของ Forex ที่น่าสนใจและการแนะนำเพื่อช่วยให้คุณตัดสินใจได้ดีขึ้น</p>
+                                </div>
                                 <div style={{ height: 40 }} />
 
 
                             </Paper>
                         </Grid>
-                        <Grid item xs={12}  lg={4} className="x1">
+                        <Grid item xs={12} lg={4} className="x1">
                             <Paper elevation={5} >
                                 <img src={M15} className="img1" />
                                 <h3>ระบบสนับสนุนสำหรับผู้เล่นใหม่</h3>
-                                <p className="texts2">ระบบผู้ช่วยที่จะช่วยอำนวยความสะดวกในการเทรดและเพิ่มกำไรให้กับคุณ</p>
+                                <div style={{ paddingLeft: "6%", paddingRight: "6%" }}>
+                                    <p className="texts2">ระบบผู้ช่วยที่จะช่วยอำนวยความสะดวกในการเทรดและเพิ่มกำไรให้กับคุณ</p>
+                                </div>
                                 <div style={{ height: 40 }} />
 
 
