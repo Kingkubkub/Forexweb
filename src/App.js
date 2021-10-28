@@ -17,13 +17,13 @@ function App() {
 
 
     <div>
-      <BrowserRouter>
-        <Route exact path="/Forexweb/" component={Index} />
-        <Route path="/Forexweb/home" component={Home} />
-        <Route path="/Forexweb/setting" component={Setting} />
-        <Route path="/Forexweb/forex" component={Forex} />
-        <Route path="/Forexweb/Forgotpssword" component={Forgotpssword} />
-      </BrowserRouter>
+      <HashRouter>
+        <Route exact path="/" component={Index} />
+        <Route path="/home" component={Home} />
+        <Route path="/setting" component={Setting} />
+        <Route path="/forex" component={Forex} />
+        <Route path="/Forgotpssword" component={Forgotpssword} />
+      </HashRouter>
     </div>
 
   );
