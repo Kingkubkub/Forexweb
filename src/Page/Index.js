@@ -64,7 +64,7 @@ function Index() {
             </Container>
 
 
-            <div style={{ backgroundColor: "#f8f7f6", padding: "2.3%" }}>
+            <div style={{ backgroundColor: "#f8f7f6", padding: "50px" }}>
 
                 <Container>
                     <Grid container spacing={4}>
