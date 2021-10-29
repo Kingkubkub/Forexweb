@@ -80,11 +80,13 @@ function Menubarindex() {
 
         <div>
 
-            <Box sx={{ flexGrow: 1 }} className="pdmenu">
+            <Box sx={{ flexGrow: 1 }} className="pdmenu" >
                 <Container>
                     <Toolbar>
                         <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+                            <Link to='/Forexweb/home'>
                             <img src={logo} className="logo" />
+                            </Link>
                         </Typography>
                         <Search style={{ color: "#000000", backgroundColor: "#eeeeee", border: "1px solid rgb(229, 232, 236)" }} className="Searh">
                             <SearchIconWrapper>

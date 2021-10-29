@@ -8,7 +8,7 @@ function Buttonmenu() {
 
         <div style={{ backgroundColor: "#f8f7f6", height: "100px", padding: "1.5%",color:"#111111" }}>
             <Container  >
-                <Grid container >
+                <Grid container className="bottom">
                     <Grid item  lg={6} xs={6}>
                         <Typography variant="h7" style={{ fontWeight: "bolder" }}>Green Graph</Typography>
 
