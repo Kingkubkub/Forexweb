@@ -37,25 +37,25 @@ function Index() {
             </div>
             <div style={{ height: 200 }} />
             <Container className="text1">
-                <Typography variant="h5">ทำให้การเทรดเป็นเรื่องง่าย ไม่ซับซ้อน <br /> พร้อมระบบที่ช่วยให้ผู้เล่นเข้าถึงการเทรดได้ง่ายขึ้น</Typography>
+                <Typography variant="h5">ทำให้การเทรดเป็นเรื่องง่ายไม่ซับซ้อน <br /> พร้อมระบบที่ช่วยให้ผู้เล่นเข้าถึงการเทรดได้ง่ายขึ้น</Typography>
                 <div style={{ height: 60 }} />
                 <Grid container spacing={2}>
-                    <Grid item xs={12} lg={3}>
+                    <Grid item xs={12} lg={3} md={3}>
                         <VerifiedUserIcon style={{ fontSize: "2.5em" }} className="icon" />
                         <p className="texts1">เทรดด้วยความปลอดภัย</p>
                         <p className="texts2">เทรดด้วยความปลอดภัยมีระบบต่างๆที่ทำให้คุณมั่นใจในการเทรด</p>
                     </Grid>
-                    <Grid item xs={12} lg={3}>
+                    <Grid item xs={12} lg={3} md={3}>
                         <EqualizerIcon style={{ fontSize: "2.5em" }} className="icon" />
                         <p className="texts1">ระบบผู้ช่วยเล่นหรือAI</p>
                         <p className="texts2">มีระบบAIหรือBotที่ช่วยให้คุณเทรดและสร้างกำไรได้มากขึ้น</p>
                     </Grid>
-                    <Grid item xs={12} lg={3}>
+                    <Grid item xs={12} lg={3} md={3}>
                         <AirplayIcon style={{ fontSize: "2.5em" }} className="icon" />
                         <p className="texts1">บริการข้อมูลหุ้น</p>
                         <p className="texts2">บริการข้อมูลหุ้นแบบเบร็จเสร็จที่จะช่วยให้คุณตัดสินใจในการซื้อขาย</p>
                     </Grid>
-                    <Grid item xs={12} lg={3}>
+                    <Grid item xs={12} lg={3} md={3}>
                         <CloudIcon style={{ fontSize: "2.5em" }} className="icon" />
                         <p className="texts1">การบริการ</p>
                         <p className="texts2">บริการการติดต่อสื่อสารทุกๆ 24 ชั่วโมง ไม่มีวันหยุดราชการ</p>

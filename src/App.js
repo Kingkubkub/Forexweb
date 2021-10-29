@@ -18,8 +18,8 @@ function App() {
 
     
       <BrowserRouter>
-        <Route exact path="/Forexweb/" component={Index} />
-        <Route path="/Forexweb/home" component={Home} />
+        <Route path="/Forexweb/" component={Index} />
+        <Route exact path="/Forexweb/home" component={Home} />
         <Route path="/Forexweb/setting" component={Setting} />
         <Route path="/Forexweb/forex" component={Forex} />
         <Route path="/Forexweb/Forgotpssword" component={Forgotpssword} />

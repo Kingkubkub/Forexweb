@@ -113,23 +113,24 @@ function FullWidthTabs() {
 
                         <Grid item xs={12}>
                             <Paper elevation={5} >
-                                <div style={{ padding: "1%"}} className="font" >
-                                    <h3 style={{color:"#1b6ac5"}}>EURUSD<span style={{ marginLeft: "50%" }}>ราคา</span></h3>
-                                    <h4>แนะนำ</h4>
-                                    <h4>แนวโน้มการผันตัว</h4>
+                                <div style={{ padding: "1%"}} className="font5" >
+                                    <h3 style={{color:"#1b6ac5"}} className="font5">EURUSD<span style={{ marginLeft: "50%" }}>ราคา</span></h3>
+                                    <h4 className="font5">แนะนำ</h4>
+                                    <h4 className="font5">แนวโน้มการผันตัว</h4>
                                 </div>
                             </Paper>
                         </Grid>
                     </Grid>
+
                     <div style={{ height: 30 }} />
                     <Grid container spacing={1} >
 
                         <Grid item xs={12}>
                             <Paper elevation={5} >
-                                <div style={{ padding: "1%" }} className="font" >
-                                    <h3 style={{color:"#1b6ac5"}}>EURUSD<span style={{ marginLeft: "50%" }}>ราคา</span></h3>
-                                    <h4>แนะนำ</h4>
-                                    <h4>แนวโน้มการผันตัว</h4>
+                                <div style={{ padding: "1%" }} className="font5" >
+                                    <h3 style={{color:"#1b6ac5"}} className="font5">EURUSD<span style={{ marginLeft: "50%" }}>ราคา</span></h3>
+                                    <h4 className="font5">แนะนำ</h4>
+                                    <h4 className="font5">แนวโน้มการผันตัว</h4>
                                 </div>
                             </Paper>
                         </Grid>
@@ -141,10 +142,10 @@ function FullWidthTabs() {
 
                         <Grid item xs={12}>
                             <Paper elevation={5} >
-                                <div style={{ padding: "1%"}} className="font" >
-                                    <h3 style={{color:"#1b6ac5"}}>EURUSD<span style={{ marginLeft: "50%" }}>ราคา</span></h3>
-                                    <h4>แนะนำ</h4>
-                                    <h4>แนวโน้มการผันตัว</h4>
+                                <div style={{ padding: "1%"}} className="font5" >
+                                    <h3 style={{color:"#1b6ac5"}} className="font5">EURUSD<span style={{ marginLeft: "50%" }}>ราคา</span></h3>
+                                    <h4 className="font5">แนะนำ</h4>
+                                    <h4 className="font5">แนวโน้มการผันตัว</h4>
                                 </div>
                             </Paper>
                         </Grid>

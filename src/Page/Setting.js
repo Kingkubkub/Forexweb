@@ -43,11 +43,11 @@ function Setting() {
             </div>
             <div style={{ height: 55 }} />
 
-            <Container >
+            <Container  >
 
                 <Grid container spacing={1}>
                     
-                    <Grid item xs={3} style={{marginRight:"10px"}}>
+                    <Grid item xs={12} md={3} lg={3} style={{marginRight:"10px"}}>
                     
                         <div style={{ backgroundColor: "#eeeeee", marginRight: "10px", display: "inline" }} >
                         <Paper elevation={3} >
@@ -63,23 +63,23 @@ function Setting() {
                         </div>
                         
                     </Grid>
-                    <Grid item xs={8} style={{ backgroundColor: "#fcfcfc",marginTop:"7px"}} >
+                    <Grid item xs={12} md={8} lg={8} style={{ backgroundColor: "#fcfcfc",marginTop:"7px"}} >
                         <div style={{ padding: "4%",marginTop:"-20px" }}>
                             <h3>การตั้งค่าทั่วไป</h3>
-                            <p>จัดการรายละเอียดบัญชีที่คุณแชร์กับ GreenGraph รวมถึงชื่อของคุณ ข้อมูลติดต่อ เป็นต้น</p>
+                            <p style={{color:"#666677"}}>จัดการรายละเอียดบัญชีที่คุณแชร์กับ GreenGraph รวมถึงชื่อของคุณ ข้อมูลติดต่อ เป็นต้น</p>
                             <div style={{ height: 10 }} />
                             <h3>รายละเอียดส่วนตัว</h3>
-                            <p>จัดการชื่อและข้อมูลติดต่อของคุณ รายละเอียดส่วนตัวดังกล่าวเป็นความลับ และผู้ใช้รายอื่นจะไม่เห็นข้อมูลของคุณ</p>
+                            <p style={{color:"#666677"}}>จัดการชื่อและข้อมูลติดต่อของคุณ รายละเอียดส่วนตัวดังกล่าวเป็นความลับ และผู้ใช้รายอื่นจะไม่เห็นข้อมูลของคุณ</p>
                             <div style={{ height: 10 }} />
                             <Avatar  style={{ width: 130, height: 130 }} />
                             <div>
-                                <p>Name: CHAKPHET WONGMANEE Email: King33130hex@gmail.com</p>
+                                <p style={{color:"#666677"}}>Name: CHAKPHET WONGMANEE Email: King33130hex@gmail.com</p>
 
                             </div>
 
                             <div style={{ height: 10 }} />
                             <h3>ธีมโหมด</h3>
-                            <p>ธีมโหมดมีสองโหมดคือโหมดกลางวันและกลางคืนโดยค่าเริ่มจะถูกตั้งไว้เป็นโหมดกลางวัน</p>
+                            <p style={{color:"#666677"}}>ธีมโหมดมีสองโหมดคือโหมดกลางวันและกลางคืนโดยค่าเริ่มจะถูกตั้งไว้เป็นโหมดกลางวัน</p>
 
                             <FormControl fullWidth >
                                 <Switch {...label} />
@@ -89,7 +89,7 @@ function Setting() {
 
                             <div style={{ height: 10 }} />
                             <h3>ภาษา</h3>
-                            <p>เลือกภาษาสำหรับการแสดงผลบนหน้าเว็บไซต์ของคุณโดยจะมีให้เลือกทั้งหมด2ภาษาคือภาษาไทยและอังกฤษ</p>
+                            <p style={{color:"#666677"}}>เลือกภาษาสำหรับการแสดงผลบนหน้าเว็บไซต์ของคุณโดยจะมีให้เลือกทั้งหมด2ภาษาคือภาษาไทยและอังกฤษ</p>
 
                             <FormControl fullWidth >
                                 <InputLabel id="demo-simple-select-label">เลือก</InputLabel>

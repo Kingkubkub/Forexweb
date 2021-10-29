@@ -85,7 +85,7 @@ function Menubarindex() {
                         <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
                             <img src={logo} className="logo" />
                         </Typography>
-                        <Search style={{ color: "#000000", backgroundColor: "#eeeeee", border: "1px solid rgb(229, 232, 236)" }}>
+                        <Search style={{ color: "#000000", backgroundColor: "#eeeeee", border: "1px solid rgb(229, 232, 236)" }} className="Searh">
                             <SearchIconWrapper>
                                 <SearchIcon style={{color:"#db2531"}}/>
                             </SearchIconWrapper>
@@ -99,7 +99,7 @@ function Menubarindex() {
 
                                     <Tooltip title="Account settings">
                                         <IconButton onClick={handleClick} size="small" sx={{ ml: 2 }}>
-                                            <Avatar  sx={{ width: 40, height: 40 }}></Avatar>
+                                            <Avatar className="Avatar"></Avatar>
                                         </IconButton>
                                     </Tooltip>
                                 </Box>
@@ -138,7 +138,7 @@ function Menubarindex() {
                                     anchorOrigin={{ horizontal: 'right', vertical: 'bottom' }}
                                 >
                                     <MenuItem>
-                                        <Avatar /> CHAKPHET WONGMANEE
+                                        <Avatar  /> CHAKPHET WONGMANEE
                                     </MenuItem>
                                     <Divider />
                                     

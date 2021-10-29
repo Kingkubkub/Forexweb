@@ -47,20 +47,20 @@ function Home() {
 
                     <Grid container spacing={2} >
                         
-                        <Grid item xs={6} md={4} lg={4} style={{ marginTop: "1%" }} >
+                        <Grid item xs={12} md={4} lg={4} style={{ marginTop: "1%" }} >
                         <a>
                             <div className="eliment">
                                 <div style={{ textAlign: "center" }}>
                                     <WebIcon style={{ fontSize: "50px" }} className="TimelineIcon1" />
                                 </div>
-                                <h3 variant="h6" style={{ fontWeight: "bolder" }}>ONESTOCKDATA- SERVICE WEB </h3>
+                                <h3 variant="h6" style={{ fontWeight: "bolder" }} className="titleh7">ONESTOCKDATA- SERVICE WEB </h3>
                                 <p className="title1">รวมข้อมูลข่าวสารของหุ้นและFoxrex แบบเบร็จเสร็จในที่เดียว</p>
                             </div>
                             </a>
                         </Grid>
                         
 
-                        <Grid item xs={6} md={4} lg={4} style={{ marginTop: "1%" }}>
+                        <Grid item xs={12} md={4} lg={4} style={{ marginTop: "1%" }}>
                             <a href="/Forexweb/forex">
                             <div className="eliment">
                                 <div style={{ textAlign: "center" }}>
@@ -73,7 +73,7 @@ function Home() {
                             </a>
                         </Grid>
 
-                        <Grid item xs={6} md={4} lg={4} style={{ marginTop: "1%" }}>
+                        <Grid item xs={12} md={4} lg={4} style={{ marginTop: "1%" }}>
                             <div className="eliment">
                                 <div style={{ textAlign: "center" }}>
                                     <TimelineIcon style={{ fontSize: "50px" }} className="TimelineIcon1" />
@@ -84,7 +84,7 @@ function Home() {
                             </div>
                         </Grid>
 
-                        <Grid item xs={6} md={4} lg={4} className="item1" style={{ marginTop: "1%" }}>
+                        <Grid item xs={12} md={4} lg={4} className="item1" style={{ marginTop: "1%" }}>
                             <div className="eliment">
                                 <DeveloperBoardIcon style={{ fontSize: "50px" }} className="TimelineIcon1" />
                                 <h3 variant="h6" style={{ fontWeight: "bolder" }}>MUDUlE ที่ 4</h3>
@@ -93,7 +93,7 @@ function Home() {
                             </div>
                         </Grid>
 
-                        <Grid item xs={6} md={4} lg={4} className="item1" style={{ marginTop: "1%" }}>
+                        <Grid item xs={12} md={4} lg={4} className="item1" style={{ marginTop: "1%" }}>
                             <div className="eliment">
                                 <DeveloperBoardIcon style={{ fontSize: "50px" }} className="TimelineIcon1" />
                                 <h3 variant="h6" style={{ fontWeight: "bolder" }}>MUDUlE ที่ 4</h3>
@@ -101,7 +101,7 @@ function Home() {
                             </div>
                         </Grid>
 
-                        <Grid item xs={6} md={4} lg={4} className="item1" style={{ marginTop: "1%" }}>
+                        <Grid item xs={12} md={4} lg={4} className="item1" style={{ marginTop: "1%" }}>
                             <div className="eliment">
                                 <DeveloperBoardIcon style={{ fontSize: "50px" }} className="TimelineIcon1" />
                                 <h3 variant="h6" style={{ fontWeight: "bolder" }}>MUDUlE ที่ 4</h3>
@@ -109,7 +109,7 @@ function Home() {
                             </div>
                         </Grid>
 
-                        <Grid item xs={6} md={4} lg={4} className="item1" style={{ marginTop: "1%" }}>
+                        <Grid item xs={12} md={4} lg={4} className="item1" style={{ marginTop: "1%" }}>
                             <div className="eliment">
                                 <DeveloperBoardIcon style={{ fontSize: "50px" }} className="TimelineIcon1" />
                                 <h3 variant="h6" style={{ fontWeight: "bolder" }}>MUDUlE ที่ 4</h3>
