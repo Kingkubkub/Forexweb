@@ -13,14 +13,14 @@ import tradsmaet from '../Img/tradsmaet.jpg'
 import M15 from '../Img/M15.jpg'
 import bowser from '../Img/bowser.png'
 import Menubarindex from '../Page/Menubarindex'
-import { BrowserRouter, Route, Router, HashRouter } from 'react-router-dom'
+
 
 
 function Index() {
 
     return (
 
-        <BrowserRouter>
+     
             <div className="font1">
 
                 <Menubarindex />
@@ -148,7 +148,7 @@ function Index() {
                     <Buttonmenu />
                 </div>
             </div>
-        </BrowserRouter>
+    
 
     );
 }
