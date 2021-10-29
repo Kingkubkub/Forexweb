@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Forexweb/static/css/main.b3681d2d.chunk.css",
-    "main.js": "/Forexweb/static/js/main.ad1e1f11.chunk.js",
-    "main.js.map": "/Forexweb/static/js/main.ad1e1f11.chunk.js.map",
+    "main.css": "/Forexweb/static/css/main.f7831e48.chunk.css",
+    "main.js": "/Forexweb/static/js/main.c57409e7.chunk.js",
+    "main.js.map": "/Forexweb/static/js/main.c57409e7.chunk.js.map",
     "runtime-main.js": "/Forexweb/static/js/runtime-main.4be1df0d.js",
     "runtime-main.js.map": "/Forexweb/static/js/runtime-main.4be1df0d.js.map",
-    "static/js/2.c27aa3ec.chunk.js": "/Forexweb/static/js/2.c27aa3ec.chunk.js",
-    "static/js/2.c27aa3ec.chunk.js.map": "/Forexweb/static/js/2.c27aa3ec.chunk.js.map",
+    "static/js/2.5b5d9954.chunk.js": "/Forexweb/static/js/2.5b5d9954.chunk.js",
+    "static/js/2.5b5d9954.chunk.js.map": "/Forexweb/static/js/2.5b5d9954.chunk.js.map",
     "static/js/3.69726fca.chunk.js": "/Forexweb/static/js/3.69726fca.chunk.js",
     "static/js/3.69726fca.chunk.js.map": "/Forexweb/static/js/3.69726fca.chunk.js.map",
     "index.html": "/Forexweb/index.html",
-    "static/css/main.b3681d2d.chunk.css.map": "/Forexweb/static/css/main.b3681d2d.chunk.css.map",
-    "static/js/2.c27aa3ec.chunk.js.LICENSE.txt": "/Forexweb/static/js/2.c27aa3ec.chunk.js.LICENSE.txt",
+    "static/css/main.f7831e48.chunk.css.map": "/Forexweb/static/css/main.f7831e48.chunk.css.map",
+    "static/js/2.5b5d9954.chunk.js.LICENSE.txt": "/Forexweb/static/js/2.5b5d9954.chunk.js.LICENSE.txt",
     "static/media/G.eaea2af6.png": "/Forexweb/static/media/G.eaea2af6.png",
     "static/media/M1.a578b511.png": "/Forexweb/static/media/M1.a578b511.png",
     "static/media/M15.0a8d0c7d.jpg": "/Forexweb/static/media/M15.0a8d0c7d.jpg",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4be1df0d.js",
-    "static/js/2.c27aa3ec.chunk.js",
-    "static/css/main.b3681d2d.chunk.css",
-    "static/js/main.ad1e1f11.chunk.js"
+    "static/js/2.5b5d9954.chunk.js",
+    "static/css/main.f7831e48.chunk.css",
+    "static/js/main.c57409e7.chunk.js"
   ]
 }
