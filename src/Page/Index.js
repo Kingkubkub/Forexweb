@@ -13,7 +13,7 @@ import tradsmaet from '../Img/tradsmaet.jpg'
 import M15 from '../Img/M15.jpg'
 import bowser from '../Img/bowser.png'
 import Menubarindex from '../Page/Menubarindex'
-
+import { Link } from 'react-router-dom';
 
 
 function Index() {

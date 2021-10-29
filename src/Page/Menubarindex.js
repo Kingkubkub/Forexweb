@@ -80,6 +80,7 @@ function Menubarindex() {
                                 <Button variant="contained" style={{
                                     fontSize: "105%",
                                     backgroundColor: "#333333",
+                                    width: "100%"
 
                                 }}>
                                     เข้าใช้งาน
@@ -108,10 +109,16 @@ function Menubarindex() {
 
 
                                 <Grid item xs={12} style={{ textAlign: "center" }}>
-                                    <Button href="/Forexweb/Forgotpssword"><p className="Boutton1">คุณลืมรหัสใช่ไหม?</p></Button>
+
+                                    <Link to='/Forexweb/Forgotpssword'>
+                                        <Button ><p className="Boutton1">คุณลืมรหัสใช่ไหม?</p></Button>
+                                    </Link>
+                                    
                                 </Grid>
 
+
                             </Grid>
+
 
 
                         </DialogContentText>

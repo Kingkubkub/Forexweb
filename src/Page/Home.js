@@ -8,6 +8,7 @@ import DeveloperBoardIcon from '@mui/icons-material/DeveloperBoard';
 import * as React from 'react';
 import Bottonmenu from './Buttonmebu';
 import MenubarHome from '../Page/MenubarHome';
+import { Link } from 'react-router-dom';
 
 
 function Home() {
@@ -48,7 +49,7 @@ function Home() {
                     <Grid container spacing={2} >
                         
                         <Grid item xs={12} md={4} lg={4} style={{ marginTop: "1%" }} >
-                        <a>
+                       
                             <div className="eliment">
                                 <div style={{ textAlign: "center" }}>
                                     <WebIcon style={{ fontSize: "50px" }} className="TimelineIcon1" />
@@ -56,12 +57,12 @@ function Home() {
                                 <h3 variant="h6" style={{ fontWeight: "bolder" }} className="titleh7">ONESTOCKDATA- SERVICE WEB </h3>
                                 <p className="title1">รวมข้อมูลข่าวสารของหุ้นและFoxrex แบบเบร็จเสร็จในที่เดียว</p>
                             </div>
-                            </a>
+                         
                         </Grid>
                         
 
                         <Grid item xs={12} md={4} lg={4} style={{ marginTop: "1%" }}>
-                            <a href="/Forexweb/forex">
+                        <Link to='/Forexweb/forex'>
                             <div className="eliment">
                                 <div style={{ textAlign: "center" }}>
                                     <EqualizerIcon style={{ fontSize: "50px" }} className="TimelineIcon1" />
@@ -70,7 +71,7 @@ function Home() {
                                 <p className="title1">อันดับและการแนะนำของFOREXที่น่าสนใจที่จัดลำตามสถิติ</p>
 
                             </div>
-                            </a>
+                            </Link>
                         </Grid>
 
                         <Grid item xs={12} md={4} lg={4} style={{ marginTop: "1%" }}>
